@@ -1,0 +1,2 @@
+Cat in the Hat,Dr.Suess,Fiction,InStock
+Green Eggs and Ham,Dr.Suess,Fiction,InStock
